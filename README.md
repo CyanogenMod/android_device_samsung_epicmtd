@@ -12,7 +12,7 @@ This tutorial begins with a belief that you have already sync'd down CyanogenMod
 ```xml
 <?xml version="1.0" encoding="UTF-8"?>
   <manifest>
-    <project path="kernel/samsung/victory" name="CyanogenMod/android_kernel_samsung_victory" remote="github" revision="gingerbread"/>
+    <project path="kernel/samsung/victory" name="CyanogenMod/android_kernel_samsung_victory" remote="github" revision="ics"/>
   </manifest>
 ```
 
